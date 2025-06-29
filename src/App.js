@@ -166,7 +166,7 @@ const GolfTeeTimeApp = () => {
                 const date = new Date(slot.time)
                 return (
                     <tr>
-                      <td>{date.toLocaleDateString('sv-SE') + ' ' + date.toLocaleTimeString('sv-SE')}</td>
+                      <td>{date.toLocaleTimeString('sv-SE')}</td>
                       <td>{slot.availablity?.availableSlots}</td>
                     </tr>
                     )
