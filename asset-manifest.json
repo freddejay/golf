@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/golf/static/css/main.9c8c9984.css",
-    "main.js": "/golf/static/js/main.62a2f303.js",
+    "main.js": "/golf/static/js/main.2a6feb39.js",
     "static/js/453.69162146.chunk.js": "/golf/static/js/453.69162146.chunk.js",
     "static/media/notification.mp3": "/golf/static/media/notification.d0ad66d2b554cc02eef0.mp3",
     "index.html": "/golf/index.html",
     "main.9c8c9984.css.map": "/golf/static/css/main.9c8c9984.css.map",
-    "main.62a2f303.js.map": "/golf/static/js/main.62a2f303.js.map",
+    "main.2a6feb39.js.map": "/golf/static/js/main.2a6feb39.js.map",
     "453.69162146.chunk.js.map": "/golf/static/js/453.69162146.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c8c9984.css",
-    "static/js/main.62a2f303.js"
+    "static/js/main.2a6feb39.js"
   ]
 }
