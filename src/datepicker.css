@@ -1,0 +1,9 @@
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px;       /* top & bottom only, no left/right padding */
+  font-size: 1rem;
+  height: 38px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
